@@ -19,7 +19,7 @@ foreach (Movie movie in myMovies)
 }
 static string[] GetDataFromMyFile()
 {
-    string filePath = @"C:\Users\Kertu\OneDrive\Desktop\programmeerimise algkursus (rke132)\Myfirstapp\Data\movies.txt";
+    string filePath
     //string[] dataFromFile = File.ReadAllLines(filePath);
 
     //return dataFromFile
